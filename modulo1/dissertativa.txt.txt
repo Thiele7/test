@@ -1,0 +1,12 @@
+Dissertativa
+
+Para multiplicar um número n  por 9, siga estes passos:
+
+1. Entrada: Pegue o número n.
+
+2. Processamento:
+- Subtraia 1 de n para encontrar o primeiro dígito (digito1).
+- Subtraia n de 10 para encontrar o segundo dígito (digito2).
+- Junte esses dois dígitos, onde o primeiro é a dezena e o segundo é a unidade.
+
+3. Saída: Mostre o resultado final.
